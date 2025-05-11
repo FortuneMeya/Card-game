@@ -1,6 +1,6 @@
 Card Game
 
-A basic two-player card game implemented in C++.
+A two-player card game implemented in C++.
 
 Features
 
